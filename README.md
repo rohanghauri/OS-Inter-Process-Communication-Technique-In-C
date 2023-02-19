@@ -9,7 +9,7 @@ For this purpose I have written two programs. The first program is called “cem
 •	The mixer does not deliver unless a total of 10 units are completely mixed.<br>
 •	A variable goes from 0 to 10 when the cement is fully mixed. <br>
 •	When cement is delivered, this variable goes to 0 and starts over. <br>
-•	The bricklayer goes into waiting if the cement is being mixed, and his batch is fully laid.<br>
+•	The bricklayer goes into waiting if the cement is being mixed, and his batch is fully laid.<br><br>
 <strong>• Bricklayer works in the following way.</strong><br>
 •	A fixed small delay (e.g., 0.5 seconds) is needed to lay one brick.<br>
 •	One batch of cement can only be used to lay 15 bricks. <br>
